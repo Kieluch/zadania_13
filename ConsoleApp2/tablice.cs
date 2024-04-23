@@ -21,4 +21,10 @@ public class Tablice
 		Console.WriteLine();
 		return tablica;
     }
+
+	public void Wyswietl_Tablice(int[] tablica)
+	{
+		Console.WriteLine(tablica[i]);
+		Console.WriteLine();
+	}
 }
