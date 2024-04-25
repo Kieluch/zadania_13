@@ -4,7 +4,7 @@
     {
         Tablice tablice = new Tablice();
 
-        tablice.Powitanie();
+        tablice.Powitanie();   
 
         int[] tab = tablice.Stworz_Tablice();
 
